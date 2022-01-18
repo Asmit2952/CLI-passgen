@@ -2,6 +2,8 @@
 
 Node.js command line app to generate random passwords. This uses crypto module due to which generated passwords are totally random, and unpredictable.
 
+![Password Generator](utils/passgen.png)
+
 ## Usage
 
 Install dependencies
